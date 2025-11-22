@@ -22,4 +22,4 @@ Scatter Plot shows clear clustering by species.
 
 Histogram highlights the range and frequency of sepal lengths.
 
-Box Plot indicates differences in petal lengths among species, useful for classification insights.
+Box Plot indicates differences in petal lengths among species, useful for classification insights
